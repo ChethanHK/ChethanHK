@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chethan H K</h1>
 <h3 align="center">A passionate Data Scientist | Analytical Thinker | Problem Solver</h3>
-<img align="right" alt="coding" width="400" src="[![image](https://github.com/user-attachments/assets/3f5b13ea-291b-4afe-aeb3-ad409d5fbb9c)](https://bridgentech.com/wp-content/uploads/2023/06/Data-Engineering.gif)
-">
+<img align="right" alt="coding" width="400" src="https://bridgentech.com/wp-content/uploads/2023/06/Data-Engineering.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chethanhk&label=Profile%20views&color=0e75b6&style=flat" alt="chethanhk" /> </p>
 
