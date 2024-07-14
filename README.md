@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, SQL, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [github.com/chethanhk]()
+- 👨‍💻 All of my projects are available at [github.com/chethanhk](https://github.com/ChethanHK)
 
 - 📫 How to reach me  **chethanhk200@gmail.com**
   [![Linkedin: ChethanHK](https://img.shields.io/badge/-ChethanHK-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chethan-h-k-a948651b2/)](https://www.linkedin.com/in/chethan-h-k-a948651b2/)
