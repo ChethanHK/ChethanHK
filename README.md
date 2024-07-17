@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chethan H K</h1>
+<h1 align="center">Hello 👋, I'm Chethan H K</h1>
 <h3 align="center">A passionate Data Scientist | Analytical Thinker | Problem Solver</h3>
 <img align="right" alt="coding" width="400" src="https://bridgentech.com/wp-content/uploads/2023/06/Data-Engineering.gif">
 
