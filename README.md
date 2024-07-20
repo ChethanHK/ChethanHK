@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Chethan H K</h1>
+<h1 align="center">Hi 👋, I'm Chethan H K</h1>
 <h3 align="center">A passionate Data Scientist | Analytical Thinker | Problem Solver</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chethanhk&label=Profile%20views&color=0e75b6&style=flat" alt="chethanhk" /> </p>
 With a strong foundation in data science and analytics, I excel at extracting insights and presenting data-driven stories. My interest in data began with a curiosity for patterns and a commitment to making informed decisions that benefit businesses and communities.
