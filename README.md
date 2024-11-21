@@ -8,7 +8,7 @@ With a strong foundation in data science and analytics, I excel at extracting in
 
 
 
-- 🔭 I’m currently working on **Web Scraping**
+- 🔭 I’m currently working on **Text_Summarizer**
 
 - 🌱 I’m currently learning **Python, SQL, Machine Learning**
 
